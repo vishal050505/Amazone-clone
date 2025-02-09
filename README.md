@@ -23,7 +23,7 @@ Folder Structure:
 │── images/            # Folder for images (e.g., logo, product images, hero section)  
 │── README.md          # Project documentation  
 
-Setup Instructions
+Setup Instructions:
 	1.	Download or Clone the Repository
 
 git clone https://github.com/your-username/amazon-clone.git
