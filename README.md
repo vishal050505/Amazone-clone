@@ -1,4 +1,4 @@
-Here’s a README.md file for your Amazon-like webpage project:
+
 
 Amazon Clone
 
