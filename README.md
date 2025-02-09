@@ -15,7 +15,7 @@ Technologies Used
 	•	CSS: Styling the layout and adding responsiveness.
 	•	Font Awesome: Icons for search, location, and cart.
 
-Folder Structure
+Folder Structure:
 
 /amazon-clone  
 │── index.html          # Main HTML file  
