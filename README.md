@@ -36,7 +36,7 @@ Screenshots:
 
 (Include relevant screenshots here if available.)
 
-Future Improvements
+Future Improvements:
 	•	Add JavaScript for interactive elements like dropdowns and a working search bar.
 	•	Implement responsive design for mobile devices.
 	•	Integrate backend support for user authentication and product management.
