@@ -1,6 +1,6 @@
 
 
-Amazon Clone:
+Amazon Clone
 
 This project is a simple front-end clone of the Amazon website using HTML and CSS. It replicates the navigation bar, search functionality, product categories, and footer to provide a basic Amazon-like layout.
 
